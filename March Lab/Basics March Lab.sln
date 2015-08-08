@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Beers", "01. Beers\01. Beers.csproj", "{8CF6E1CF-6D95-4E5A-965B-DEEA4A3CF2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Fun with Matrices", "02. Fun with Matrices\02. Fun with Matrices.csproj", "{389C0281-8902-411E-BE21-56FFEC8FD123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ByteParty", "03.ByteParty\03.ByteParty.csproj", "{CC814038-F478-43C6-9F8B-23EC97712270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF6E1CF-6D95-4E5A-965B-DEEA4A3CF2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF6E1CF-6D95-4E5A-965B-DEEA4A3CF2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF6E1CF-6D95-4E5A-965B-DEEA4A3CF2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF6E1CF-6D95-4E5A-965B-DEEA4A3CF2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389C0281-8902-411E-BE21-56FFEC8FD123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389C0281-8902-411E-BE21-56FFEC8FD123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389C0281-8902-411E-BE21-56FFEC8FD123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389C0281-8902-411E-BE21-56FFEC8FD123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC814038-F478-43C6-9F8B-23EC97712270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC814038-F478-43C6-9F8B-23EC97712270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC814038-F478-43C6-9F8B-23EC97712270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC814038-F478-43C6-9F8B-23EC97712270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
